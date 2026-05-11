@@ -82,8 +82,6 @@ These Gold tables represent the **final, analytics-ready product** optimised for
 
 The pipeline is orchestrated across three sequential stages **Bronze**, **Silver**, and **Gold** where each stage triggers the next upon successful completion. It was built and scheduled in the **Jobs & Pipelines** section of Databricks.
 
----
-
 ## Execution Flow
 
 ### Stage 1 Bronze: Source Ingestion
@@ -118,8 +116,6 @@ The pipeline is actively monitored and iteratively improved to ensure reliabilit
 | Notebooks | Pipeline development |
 | SQL | Data transformations |
 | Git & GitHub | Version control |
-
----
 
 ---
 # Project Structure
