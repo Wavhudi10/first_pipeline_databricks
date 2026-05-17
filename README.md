@@ -42,6 +42,7 @@ Contains curated business-ready tables optimized for analytics and reporting.
 - Mapping each table to a business object such as customers, products, or sales.
 - Model our tables:
 Entity relation diagram
+
 ![ERD](images/bk_entity_diagram.png)
 
 ---
